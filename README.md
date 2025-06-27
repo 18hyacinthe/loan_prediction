@@ -103,7 +103,7 @@ The interactive web application includes **3 main pages**:
 
 ### **1. Clone the project**
 ```bash
-git clone https://github.com/your-username/machine-learning.git
+git clone https://github.com/18hyacinthe/loan_prediction.git
 cd machine-learning
 ```
 
@@ -194,7 +194,7 @@ CIBIL score: 700
 
 ## 📞 **CONTACT**
 
-- **Author**: [Your Name]
+- **Author**: [AGBEDJINOU Kossivi Hyacinthe]
 - **Email**: [kagbedjinou@yahoo.com]
 - **GitHub**: [https://github.com/18hyacinthe]
 - **Project**: Made as part of a school project
